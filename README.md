@@ -18,7 +18,7 @@ Generate Python classes from OData metadata with **ODpyClassGen**, a tool design
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/ODpyClassGen.git
+   git clone https://github.com/hashara256/ODpyClassGen.git
    cd ODpyClassGen
    ```
 
