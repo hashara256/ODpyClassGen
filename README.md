@@ -92,4 +92,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## Contact
 
-For questions or support, please open an issue on the GitHub repository or contact the project maintainer at your-email@example.com.
+For questions or support, please open an issue on the GitHub repository.
